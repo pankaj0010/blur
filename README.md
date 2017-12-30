@@ -1,1 +1,1 @@
-# blur
+A simple python code to get familiar with playing around with image pixels. This python code takes in an image and applies a kernel to it, and returns a blurred image.
